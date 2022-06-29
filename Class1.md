@@ -10,6 +10,9 @@ I will be using Windows 10 system.
 I currently live in El Paso, Texas and I love spending time with my family.
 
  ## Growth mindset
+ 
+ ![image](https://user-images.githubusercontent.com/108295374/176358139-9c63ace2-e731-4b4c-886a-cf172295743b.png)
+ 
 1. Anything is achievable when you put your mind and work into it.
 2. Help yourself first before helping others.
 3. Never make fun of someone, you may later be going throught the same things.
